@@ -13,10 +13,10 @@
   
     
         ,"post1": {
-            "title": "Hello World",
-            "content": "Hello .",
-            "url": "https://kristianmschmidt.github.io/My-Data-Science-Blog/2021/10/04/Hello-World.html",
-            "relUrl": "/2021/10/04/Hello-World.html",
+            "title": "An Example Markdown Post",
+            "content": "Hello world post . Hey there… .",
+            "url": "https://kristianmschmidt.github.io/My-Data-Science-Blog/markdown/2021/10/04/Hello-World.html",
+            "relUrl": "/markdown/2021/10/04/Hello-World.html",
             "date": " • Oct 4, 2021"
         }
         
